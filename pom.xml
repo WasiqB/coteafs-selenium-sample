@@ -11,12 +11,12 @@
         <dependency>
             <groupId>com.github.wasiqb.coteafs</groupId>
             <artifactId>selenium</artifactId>
-            <version>2.1.0</version>
+            <version>3.0.0-beta1</version>
         </dependency>
         <dependency>
             <groupId>com.github.javafaker</groupId>
             <artifactId>javafaker</artifactId>
-            <version>0.18</version>
+            <version>1.0.0</version>
         </dependency>
     </dependencies>
     <build>
